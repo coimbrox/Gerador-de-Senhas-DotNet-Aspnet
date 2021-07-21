@@ -1,0 +1,13 @@
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\bin\Debug\netcoreapp3.1\Gerando_Senhas.exe
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\bin\Debug\netcoreapp3.1\Gerando_Senhas.deps.json
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\bin\Debug\netcoreapp3.1\Gerando_Senhas.runtimeconfig.json
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\bin\Debug\netcoreapp3.1\Gerando_Senhas.runtimeconfig.dev.json
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\bin\Debug\netcoreapp3.1\Gerando_Senhas.dll
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\bin\Debug\netcoreapp3.1\Gerando_Senhas.pdb
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\obj\Debug\netcoreapp3.1\Gerando_Senhas.csprojAssemblyReference.cache
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\obj\Debug\netcoreapp3.1\Gerando_Senhas.AssemblyInfoInputs.cache
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\obj\Debug\netcoreapp3.1\Gerando_Senhas.AssemblyInfo.cs
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\obj\Debug\netcoreapp3.1\Gerando_Senhas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\obj\Debug\netcoreapp3.1\Gerando_Senhas.dll
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\obj\Debug\netcoreapp3.1\Gerando_Senhas.pdb
+C:\Users\Gabriel Coimbra\source\repos\Gerando_Senhas\Gerando_Senhas\obj\Debug\netcoreapp3.1\Gerando_Senhas.genruntimeconfig.cache
